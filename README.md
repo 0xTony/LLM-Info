@@ -10,7 +10,7 @@ This section will list the approximate memory requirements for various sized mod
 
 (To Do)
 
-# Instal WSL2 For Windows 10 and 11
+# Install WSL2 For Windows 10 and 11
 Install WSL for Windows using the default Ubuntu OS: https://www.windowscentral.com/how-install-wsl2-windows-10
 * To start a WSL instance, from the task bar search run 'wsl'.
 * To stop a running WSL 'wsl --shutdown'. https://learn.microsoft.com/en-us/windows/wsl/basic-commands
